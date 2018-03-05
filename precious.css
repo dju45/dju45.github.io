@@ -142,20 +142,20 @@ figure:hover .pseudoThrough{
 }
 
 section.fellows{
-  background-imgage:url("_bg_light.png");
+  background-imgage:url("bg_light.png");
 }
 
 section.getReward{
   color:white;
-  background-image: url("_bg_dark.png");
+  background-image: url("bg_dark.png");
   padding-left:30px;
 }
 
 section.ring{
-  background-image:url("_bg_dark.png");
+  background-image:url("bg_dark.png");
 }
 section.contactUs{
-  background-image: url("_bg_dark.png");
+  background-image: url("bg_dark.png");
 }
 
 .parallelogramme{
