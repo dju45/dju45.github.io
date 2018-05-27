@@ -141,23 +141,23 @@ figure:hover .pseudoThrough{
   background-color:black;
 }
 section.rings{
-    background-image:url(bg_light.png) ;
+    background-image:url(../images/bg_light.png) ;
 }
 section.fellows{
-  background-image:url("bg_light.png");
+  background-image:url("../images/bg_light.png");
 }
 
 section.getReward{
   color:white;
-  background-image: url("bg_dark.png");
+  background-image: url("../images/bg_dark.png");
   padding-left:30px;
 }
 
 section.ring{
-  background-image:url("bg_dark.png");
+  background-image:url("../images/bg_dark.png");
 }
 section.contactUs{
-  background-image: url("bg_dark.png");
+  background-image: url("../images/bg_dark.png");
 }
 
 .parallelogramme{
